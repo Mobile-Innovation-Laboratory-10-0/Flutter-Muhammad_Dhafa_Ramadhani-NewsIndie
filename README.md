@@ -49,22 +49,25 @@ Aplikasi ini dikembangkan sebagai tugas mandiri Flutter dari Motion Lab.
 ## Screenshot Aplikasi
 
 ### Halaman Beranda
-![Beranda](assets/images/beranda.png)
+![Beranda](assets/images/home_newsindie.png)
 
 ### Halaman Detail Artikel
-![Detail Artikel](assets/images/detail.png)
+![Detail Artikel](assets/images/detail_news_page_newsindie.png)
 
-### Halaman Detail dengan Catatan
-![Detail dengan Catatan](assets/images/detail_note.png)
+### Halaman Detail dengan Catatan yang akan ditambahkan
+![Detail dengan Catatan](assets/images/add_note_news_newsindie.png)
+
+### Halaman Detail dengan Catatan yang sudah ditambahkan
+![Detail dengan Catatan](assets/images/after_add_note_newsindie.png)
 
 ### Halaman Bookmark
-![Bookmark](assets/images/bookmark.png)
+![Bookmark](assets/images/saved_news_newsindie.png)
 
 ### Halaman Statistik
-![Statistik](assets/images/statistik.png)
+![Statistik](assets/images/statisticpage_newsindie.png)
 
 ### Halaman Pengaturan
-![Pengaturan](assets/images/pengaturan.png)
+![Pengaturan](assets/images/settingpage_newsindie.png)
 
 ## Cara Menjalankan Aplikasi
 
